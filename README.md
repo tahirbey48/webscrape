@@ -8,7 +8,7 @@ The requests module provides essential methods and features to send HTTP request
 This mindmap is a quick recap on how http requests work. Requests module has corresponding methods on this architecture.
 
 
-![HTMLrequests] (/HTTPRequests.png)
+![HTTPrequests] (/HTTPRequests.png)
 Format: ![Alt Text](https://github.com/tahirbey/webscrape/blob/1baf892bc1ca8034fb1704c1f3b6222353843cef/HTTPRequests.png)
 
 
