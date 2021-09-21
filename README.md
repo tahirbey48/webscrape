@@ -11,4 +11,4 @@ The requests module provides essential methods and features to send HTTP request
 This mindmap is a quick recap on how http requests work. Requests module has corresponding methods on this architecture.
 
 
-https://github.com/tahirbey/webscrape/requests.pdf
+https://github.com/tahirbey/webscrape/blob/52ba54c19d43c9f520563fca0b41ad03e7489248/requests.pdf
