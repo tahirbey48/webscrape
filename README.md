@@ -9,6 +9,6 @@ This mindmap is a quick recap on how http requests work. Requests module has cor
 
 
 ![HTMLrequests] (/HTTPRequests.png)
-Format: ![Alt Text](https://github.com/tahirbey/webscrape/blob/33114751223272b6ca70e3ef1e18d6eaf172378e/HTMLrequests.png)
+Format: ![Alt Text](https://github.com/tahirbey/webscrape/blob/1baf892bc1ca8034fb1704c1f3b6222353843cef/HTTPRequests.png)
 
 
