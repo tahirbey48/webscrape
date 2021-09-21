@@ -5,6 +5,8 @@ the beautiful soup module is used to get data from HTML, XML etc. If you have so
 
 The requests module provides essential methods and features to send HTTP requests.
 
+tahirbey.github.io/webscrape/requests.pdf
+
 [requests.pdf](https://github.com/tahirbey/webscrape/files/7200240/requests.pdf)
 
 This mindmap is a quick recap on how http requests work. Requests module has corresponding methods on this architecture.
