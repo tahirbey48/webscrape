@@ -7,5 +7,6 @@ The requests module provides essential methods and features to send HTTP request
 
 This mindmap is a quick recap on how http requests work. Requests module has corresponding methods on this architecture.
 
+[HTMLrequests.png] HTMLrequests.png
 
 https://github.com/tahirbey/webscrape/blob/33114751223272b6ca70e3ef1e18d6eaf172378e/HTMLrequests.png
