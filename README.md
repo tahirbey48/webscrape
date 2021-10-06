@@ -1,9 +1,9 @@
 # webscrape app
 
 ## Table Of Contents
-### General Info
-### Technologies
-### Setup
+- General Info
+- Technologies
+- Setup
 
 ### General Info
 This code uses requests and beautifulsoup modules for scraping images and corresponding data in sequent web pages. (or any webpage depending on how you modify)
