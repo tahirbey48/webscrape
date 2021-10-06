@@ -8,10 +8,17 @@
 ### General Info
 This code is used to scrape data from websites. With some modification, it can scrape text and image data from websites with dynamic url.
 ### Technologies
--Python
+  - Python
   - beautifulsoup
   - requests
  
+### Setup
+
+make sure beautifulsoup and requests modues are installed. If not
+-pip install beautifulsoup4
+-pip install requests
+
+
 This code uses requests and beautifulsoup modules for scraping images and corresponding data in sequent web pages. (or any webpage depending on how you modify)
 
 The beautiful soup module is used to get data from HTML, XML etc. If you have some useful information on a webpage but it does not provide and APİ to get this data, and of course if it is legal to get this data, beautiful soup helps to obtain and parse that useful data. 
