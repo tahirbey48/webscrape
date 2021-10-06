@@ -8,9 +8,9 @@
 ### General Info
 This code is used to scrape data from websites. With some modification, it can scrape text and image data from websites with dynamic url.
 ### Technologies
-  - Python
-  - beautifulsoup
-  - requests
+  -- Python
+  -- beautifulsoup
+  -- requests
  
 ### Setup
 
